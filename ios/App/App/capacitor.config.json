@@ -1,5 +1,5 @@
 {
-  "appId": "blog.eric231.car-control",
+  "appId": "io.ionic.starter",
   "appName": "car-control",
   "bundledWebRuntime": false,
   "npmClient": "npm",
